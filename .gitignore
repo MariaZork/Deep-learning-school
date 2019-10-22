@@ -2,3 +2,6 @@
 .vscode
 .ipynb_checkpoints
 __pycache__
+
+black-friday
+forest_dataset.csv
